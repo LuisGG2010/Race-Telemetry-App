@@ -80,13 +80,14 @@ This application demonstrates professional data handling patterns used in modern
 
 ## 💾 Download Standalone Application
 
-[**Download for Windows**] (https://drive.google.com/open?id=1csYc2HC83O8jOls0Tcg4_QbTQDMzAucu&usp=drive_fs) - Pre-compiled executable (v1.0)
+[**Download for Windows**] (https://drive.google.com/open?id=1Fy8xtTkimucfiScKOTtWeJUnWkVoD2ZD&usp=drive_fs) - Pre-compiled executable (v1.0)
 
 ### Installation:
 1. Download the .zip file above
 2. Extract the contents to any folder
 3. Run `RaceTelemetry.exe` (found in “dist” folder)
 4. *(Windows may show a security warning - this is normal for new applications)*
+5. A sample file named "Austria-TT-Mercedes-7.23.2025.csv" is included which may be used for the application
 
 
 *No installation required - simply download and run*
