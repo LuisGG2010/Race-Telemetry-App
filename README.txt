@@ -37,7 +37,7 @@ A high-performance Python application built with PyQt6 for visualizing and analy
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/race-telemetry-app.git
+    git clone https://github.com/LuisGG2010/race-telemetry-app.git
     cd race-telemetry-app
     ```
 
@@ -90,7 +90,7 @@ This application demonstrates professional data handling patterns used in modern
 5. A sample file named "Austria-TT-Mercedes-7.23.2025.csv" is included which may be used for the application
 
 
-*No installation required - simply download and run*
+*Simply download and run*
 
 ---
 
